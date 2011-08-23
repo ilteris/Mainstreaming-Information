@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="six/core.jar"/>
+	<classpathentry kind="lib" path="six/lib/glgraphics.jar"/>
+	<classpathentry kind="lib" path="six/lib/jogl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="mainstreaming/six/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="six/lib/opengl.jar"/>
+	<classpathentry kind="lib" path="six/lib/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="mainstreaming/six/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>
